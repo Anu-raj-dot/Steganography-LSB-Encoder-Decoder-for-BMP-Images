@@ -129,7 +129,7 @@ Possible areas for improvement include:
 - Implementing a graphical user interface (GUI).
 - Enhancing security with encryption on top of steganography.
 
-## Live Demo
+## Sample Execution
 
 | Step | Terminal Output |
 |------|-----------------|
